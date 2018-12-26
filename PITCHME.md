@@ -26,4 +26,10 @@
 별명 : 미분과눙\
 성격 : 낙천적이고 느긋함\
 연말계획 : 망년회
-![Logo](assets/img/baekjune.jpg = 250x250)
+![Logo](assets/img/baekjune.jpg)
++++
+# 이승진
+별명 : 턱돌이\
+성격 : 착함\
+연말계획 : 친구들이랑 술(망년회)
+<img src="https://user-images.githubusercontent.com/39025676/50433652-dcd21300-091c-11e9-804b-619a9a927296.jpg" width = 10%></img>
