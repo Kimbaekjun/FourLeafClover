@@ -26,4 +26,4 @@
 별명 : 미분과눙\
 성격 : 낙천적이고 느긋함\
 연말계획 : 망년회
-![Logo](assets/img/baekjune.jpg)
+![Logo](assets/img/baekjune.jpg = 250x250)
