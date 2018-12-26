@@ -31,5 +31,5 @@
 # 이승진
 별명 : 턱돌이\
 성격 : 착함\
-연말계획 : 친구들이랑 술(망년회)
-<img src="https://user-images.githubusercontent.com/39025676/50433652-dcd21300-091c-11e9-804b-619a9a927296.jpg" width = 10%></img>
+연말계획 : 친구들이랑 술(망년회)\
+<img src="https://user-images.githubusercontent.com/39025676/50433652-dcd21300-091c-11e9-804b-619a9a927296.jpg"></img>
