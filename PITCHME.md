@@ -16,7 +16,7 @@
 성격 : 활발함\
 연말계획 : 대구 동성로에서 술먹음\
 <img src="https://user-images.githubusercontent.com/46044140/50433515-06d70580-091c-11e9-8bf3-ed763d2950a9.jpg" width = 10%></img>
-
++++
 # 김채은
 별명 : 순미씨\
 성격 : 사교성이 좋다\
