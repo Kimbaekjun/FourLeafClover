@@ -21,7 +21,7 @@
 별명 : 순미씨<br />
 성격 : 사교성이 좋다<br />
 연말계획 : 오픽따기<br />
-<img src="https://user-images.githubusercontent.com/37834734/50433869-2f5fff00-091e-11e9-8436-a2999a30459d.jpg" width = 50%></img>
+<img src="https://user-images.githubusercontent.com/37834734/50433869-2f5fff00-091e-11e9-8436-a2999a30459d.jpg" width = 40%></img>
 +++
 # 윤관웅
 별명 : 미분과눙<br />
