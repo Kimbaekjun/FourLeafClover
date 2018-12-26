@@ -39,4 +39,4 @@
 별명 : 컨셉충</br>
 성격 : 갑자기 튈때가 있음</br>
 연말계획 : 정동진 해돋이 기차 여행</br>
-<img src="https://user-images.githubusercontent.com/46148189/50433791-beb8e280-091d-11e9-8157-457407f5048c.jpeg"></img>
+<img src="https://user-images.githubusercontent.com/46148189/50433791-beb8e280-091d-11e9-8157-457407f5048c.jpeg" width = 50%></img>
